@@ -75,6 +75,13 @@ It will globally install react app for you. To check everything  went well run t
   where my-app is the name of the folder for your application. This may take a few minutes to create the React application and install its dependencies.
   
   ![Screenshot (13)](https://user-images.githubusercontent.com/112370237/208897682-017b6ab8-af1b-4a46-935d-d78594497008.png)
+  
+  Let's quickly run our React application by navigating to the new folder and typing npm start to start the web server and open the application in a browser:
+  ```
+ cd my-app
+ npm start
+  ```
+  You should see the React logo and a link to "Learn React" on [http://localhost:30000](http://localhost:30000) in your browser. We'll leave the web server running while we look at the application with VS Code.
 
   
  
