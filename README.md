@@ -52,13 +52,32 @@ The following features will be installed by default:
  ![cmd](https://user-images.githubusercontent.com/112370237/208838322-154ff311-cc66-430a-9eab-19babc54c84b.png)
   If the installation went well it will give you the version you have installed
  The NodeJs installation is completed
-#### Step 4: Now in the terminal run the below command: 
+  
+  #### Step-4: Now in the terminal run the below command: 
+  ```
+  npm install -g create-react-app  
+  ```
+  
+  ![Screenshot (12)](https://user-images.githubusercontent.com/112370237/208892276-e561d53d-d7bf-4142-b534-93b9fe93125d.png)
+It will globally install react app for you. To check everything  went well run the command 
+
+#### Step 5: Now in the terminal run the below command: 
 ```
   create-react-app --version  
 ```
   
   ![Screenshot (10)](https://user-images.githubusercontent.com/112370237/208842637-dfb39cda-ed2a-48e8-842b-30ac9c731325.png)
+  
+  #### Step-6: You can now create a new React application by typing:
+  ```
+  npm create-react-app my-app
+  ```
+  where my-app is the name of the folder for your application. This may take a few minutes to create the React application and install its dependencies.
+  
+  ![Screenshot (13)](https://user-images.githubusercontent.com/112370237/208897682-017b6ab8-af1b-4a46-935d-d78594497008.png)
 
+  
+ 
 
 
 
