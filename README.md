@@ -33,7 +33,8 @@ The following features will be installed by default:
 - Bang! The setup is ready to install Node and NPM. Let’s click on the Install button so hard!
   
 <img width="680" alt="install" src="https://user-images.githubusercontent.com/112370237/208834409-4b8b5c95-e8a3-4678-ae37-2a2340e00147.png"><br>
- ** Step 3: Check Node.js and NPM version**
+#### Step 3: Check Node.js and NPM version
+ 
 
 
 
