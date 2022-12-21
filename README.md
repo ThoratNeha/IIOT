@@ -34,7 +34,7 @@ The following features will be installed by default:
   
 <img width="680" alt="install" src="https://user-images.githubusercontent.com/112370237/208834409-4b8b5c95-e8a3-4678-ae37-2a2340e00147.png"><br>
 #### Step 3: Check Node.js and NPM version
- 
+- If you have a doubt whether you have installed everything correctly or not, let’s verify it with “Command Prompt”.
 
 
 
