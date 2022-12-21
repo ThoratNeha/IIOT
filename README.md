@@ -41,6 +41,7 @@ The following features will be installed by default:
 - To confirm NPM installation, type **_npm -v_** command.<br>
   
  ![cmd](https://user-images.githubusercontent.com/112370237/208838322-154ff311-cc66-430a-9eab-19babc54c84b.png)
+  If the installation went well it will give you the version you have installed
  The NodeJs installation is completed><br>
  After that we will install a React
  ### React
