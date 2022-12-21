@@ -83,8 +83,7 @@ It will globally install react app for you. To check everything  went well run t
   ```
   You should see the React logo and a link to "Learn React" on [http://localhost:30000](http://localhost:30000) in your browser. We'll leave the web server running while we look at the application with VS Code.
   
-  ![react](https://user-images.githubusercontent.com/112370237/208904625-a1983d27-0446-4d59-b47e-dfb7c3edf559.png)
-
+<img width="680" alt="react" src="https://user-images.githubusercontent.com/112370237/208906793-7688946d-f2ce-4b14-862c-bf4e3227e4c7.png">
 
   
  
