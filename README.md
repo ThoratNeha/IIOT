@@ -38,14 +38,21 @@ The following features will be installed by default:
 - Open the command Prompt
 - Command Prompt window will appear on the screen.
 - To confirm Node installation, type **_node -v_** command.
-- To confirm NPM installation, type **_npm -v_** command.<br>
+  ```
+  node -v
+  ```
+- To confirm NPM installation, type **_npm -v_** command.
+  ```
+  npm -v
+  ```
   
  ![cmd](https://user-images.githubusercontent.com/112370237/208838322-154ff311-cc66-430a-9eab-19babc54c84b.png)
   If the installation went well it will give you the version you have installed
- The NodeJs installation is completed><br>
- After that we will install a React
- ### React
-
+ The NodeJs installation is completed
+#### Step 4: Now in the terminal run the below command: 
+```
+  create-react-app --version  
+```
 
 
 
