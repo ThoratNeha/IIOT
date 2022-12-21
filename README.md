@@ -38,10 +38,13 @@ The following features will be installed by default:
 - Open the command Prompt
 - Command Prompt window will appear on the screen.
 - To confirm Node installation, type **_node -v_** command.
+  
   ```
   node -v
   ```
+- A package manager called npm. It is automatically included in your installation of Node. You need to have an npm version of at least 5.2.
 - To confirm NPM installation, type **_npm -v_** command.
+  
   ```
   npm -v
   ```
@@ -53,6 +56,9 @@ The following features will be installed by default:
 ```
   create-react-app --version  
 ```
+  
+  ![Screenshot (10)](https://user-images.githubusercontent.com/112370237/208842637-dfb39cda-ed2a-48e8-842b-30ac9c731325.png)
+
 
 
 
