@@ -8,6 +8,6 @@ you will need to install Node.js, react and MQTT
 #### step-1: Download the installer
 Download the windows intaller from [NodeJs official website](https://nodejs.org/en/). Make sure you have downloaded the latest version of NodeJs. It includes the NPM package manager.<br>
 Here, we are choosing the 64-bit version of the Node.js installer<br>
-<img src=""C:\Users\Admin\Pictures\nodeV.png""><br>
+<img src="C:\Users\Admin\Pictures\nodeV.png"><br>
 The LTS (Long-term Support) version is highly recommended for you. After the download of the installer package, install it with a double-click on it.<br>
 Now .msi file will be downloaded to your browser. Choose the desired location for that.
