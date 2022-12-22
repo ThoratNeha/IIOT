@@ -1,5 +1,5 @@
 # IIOT
-<p> ## Introduction
+ ## Introduction
 The industrial internet of things (IIoT) refers to the extension and use of the internet of things (IoT) in industrial sectors and applications. With a strong focus on machine-to-machine (M2M) communication, big data, and machine learning, the IIoT enables industries and enterprises to have better efficiency and reliability in their operations. The IIoT encompasses industrial applications, including robotics, medical devices, and software-defined production processes.
 ## **Setting up the development environment for IIOT**
 ### Installing Dependencies
@@ -127,7 +127,7 @@ The configuration page will pop up when you enter MQTT Explorer for the first ti
 
 
 <img width="580" alt="sys" src="https://user-images.githubusercontent.com/112370237/209113420-4b9aa2c1-4c91-46fa-8a25-ad5a2fbd3ec9.png">
-  </p>
+ 
 
 
 
