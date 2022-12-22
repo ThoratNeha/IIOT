@@ -100,7 +100,7 @@ You should see the React logo and a link to "Learn React" on [http://localhost:3
 - Click on “Finish” to complete the process.
   
 #### Step-2: Starting Mosquitto on Windows
-- Open a command prompt and type command mosquitto -v will let you start in verbose mode, and you can thus see the console messages.
+- Open a command prompt and type command `mosquitto -v` will let you start in verbose mode, and you can thus see the console messages.
   
 ```
 mosquitto -v
