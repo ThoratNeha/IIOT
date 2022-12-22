@@ -122,7 +122,7 @@ The configuration page will pop up when you enter MQTT Explorer for the first ti
 <img width="580" alt="connect" src="https://user-images.githubusercontent.com/112370237/209099119-3bd9b3b3-da34-4f00-bfca-20303a70cf17.png">
   
 #### Step-5: Create a connection
-Click Connections to create a new connection, and fill in the Host, the port as 1883, and the protocol as MQTT protocol.
+> Click Connections to create a new connection, and fill in the Host, the port as 1883, and the protocol as MQTT protocol.
   
 <img width="680" alt="connection" src="https://user-images.githubusercontent.com/112370237/209106278-e55fe6ed-dbbd-4510-80a3-1aa14743610e.png">
 
