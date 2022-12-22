@@ -39,7 +39,7 @@ The following features will be installed by default:
 - If you have a doubt whether you have installed everything correctly or not, let’s verify it with “Command Prompt”.
 - Open the command Prompt
 - Command Prompt window will appear on the screen.
-- To confirm Node installation, type **_`node -v`_**command.
+- To confirm Node installation, type **_`node -v`_** command.
   
 ```
 node -v
@@ -125,6 +125,8 @@ The configuration page will pop up when you enter MQTT Explorer for the first ti
  Click Connections to create a new connection, and fill in the Host, the port as 1883, and the protocol as MQTT protocol.
   
 <img width="680" alt="connection" src="https://user-images.githubusercontent.com/112370237/209106278-e55fe6ed-dbbd-4510-80a3-1aa14743610e.png">
+  ![WhatsApp Image 2022-12-22 at 3 44 18 PM](https://user-images.githubusercontent.com/112370237/209111988-a0176bac-12db-40d1-94e2-46658f998b92.jpeg)
+
 
 
 
