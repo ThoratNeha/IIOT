@@ -90,7 +90,13 @@ It will globally install react app for you. To check everything  went well run t
 - After that you can see the mosquitto setup window on your screen then click on next<br>
   <img width="680" alt="setup" src="https://user-images.githubusercontent.com/112370237/209064690-0482d893-9656-4e05-a098-4d2351298489.png">
 - In the “Choose Components” page, tick the box that will install Mosquitto as a “Service.”<br>
-  <img width="680" alt="service" src="https://user-images.githubusercontent.com/112370237/209065577-25dca10f-a673-4ef5-9c41-c9ab581e79b1.png">
+  
+  <img width="680" alt="service" src="https://user-images.githubusercontent.com/112370237/209065577-25dca10f-a673-4ef5-9c41-c9ab581e79b1.png"><br>
+- By default, the location of installation will be set at C:\ program files\mosquitto. If you want to install the service somewhere else, you can browse to that particular location.
+- Click on “Finish” to complete the process.
+  
+  <img width="365" alt="install" src="https://user-images.githubusercontent.com/112370237/209066600-c4e2bd52-ac08-4788-b1e8-9d1da359dc8a.png">
+
 
 
  
