@@ -110,7 +110,7 @@ It will globally install react app for you. To check everything  went well run t
 
 - The main page is shown in the figure below, with the topic search bar and connection configuration at the top. On the lower left of the page, it is the tree structure of the topic, and on the right, it is the Publish column, Subscribe column, Payload column, and History information control column.
 
- <img width="481" alt="exp" src="https://user-images.githubusercontent.com/112370237/209097324-c4c471a8-ad18-4eff-a777-4d25c4a1fac1.png">
+ <img width="580" alt="exp" src="https://user-images.githubusercontent.com/112370237/209097324-c4c471a8-ad18-4eff-a777-4d25c4a1fac1.png">
 
 
   
