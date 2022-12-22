@@ -3,18 +3,20 @@
 The industrial internet of things (IIoT) refers to the extension and use of the internet of things (IoT) in industrial sectors and applications. With a strong focus on machine-to-machine (M2M) communication, big data, and machine learning, the IIoT enables industries and enterprises to have better efficiency and reliability in their operations. The IIoT encompasses industrial applications, including robotics, medical devices, and software-defined production processes.
 ## **Setting up the development environment for IIOT**
 ### Installing Dependencies
-you will need to install Node.js, react and MQTT
+you will need to install Node.js, React and MQTT
 ### 1. Installation of Node.js
 #### Step-1: Download the installer
-Download the windows intaller from [NodeJs official website](https://nodejs.org/en/). Make sure you have downloaded the latest version of NodeJs. It includes the NPM package manager.<br>
+Download the windows installer from [NodeJs official website](https://nodejs.org/en/). Make sure you have downloaded the latest version of NodeJs. It includes the NPM package manager.<br>
 Here, we are choosing the 64-bit version of the Node.js installer<br>
 
 <img width="580" alt="nodeV" src="https://user-images.githubusercontent.com/112370237/208826356-87cd4711-9212-4d32-9deb-4c21bc32cb3a.png"><br>
 
 The LTS (Long-term Support) version is highly recommended for you. After the download of the installer package, install it with a double-click on it.<br>
-Now .msi file will be downloaded to your browser. Choose the desired location for that.<br>
+
 #### Step 2: Install Node.js and NPM
+
 <img width="580" alt="npm" src="https://user-images.githubusercontent.com/112370237/208828959-74860e50-4bbf-43e4-8cb9-540dacaf9ec0.png"><br>
+
 After choosing the path, double-click to install .msi binary files to initiate the installation process. Then give access to run the application.
 
 You will get a welcome message on your screen and click the “Next” button. The installation process will start.<br>
@@ -105,6 +107,11 @@ It will globally install react app for you. To check everything  went well run t
   ```
   
   ![Screenshot (18)](https://user-images.githubusercontent.com/112370237/209069715-a3e5ee3f-98b2-4161-8401-1fa27de468b4.png)
+
+- The main page is shown in the figure below, with the topic search bar and connection configuration at the top. On the lower left of the page, it is the tree structure of the topic, and on the right, it is the Publish column, Subscribe column, Payload column, and History information control column.
+
+ <img width="481" alt="exp" src="https://user-images.githubusercontent.com/112370237/209097324-c4c471a8-ad18-4eff-a777-4d25c4a1fac1.png">
+
 
   
  
