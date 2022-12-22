@@ -111,10 +111,7 @@ mosquitto -v
   
 MQTT Explorer is a comprehensive MQTT client that provides a structured overview of your MQTT topics and makes working with devices/services on your broker dead-simple.
 #### Step-3: Download the MQTT Explorer version 0.4.0 . 
-- After the installation the main page is shown in the figure below, with the topic search bar and connection configuration at the top. On the lower left of the page, it is the tree structure of the topic, and on the right, it is the Publish column, Subscribe column, Payload column, and History information control column.
 
-<img width="580" alt="exp" src="https://user-images.githubusercontent.com/112370237/209097324-c4c471a8-ad18-4eff-a777-4d25c4a1fac1.png">
-  
 #### Step-4: MQTT connection/subscription
 ##### Initialization page
 The configuration page will pop up when you enter MQTT Explorer for the first time.
@@ -125,6 +122,10 @@ The configuration page will pop up when you enter MQTT Explorer for the first ti
  Click Connections to create a new connection, and fill in the Host, the port as 1883, and the protocol as MQTT protocol.
   
 <img width="680" alt="connection" src="https://user-images.githubusercontent.com/112370237/209106278-e55fe6ed-dbbd-4510-80a3-1aa14743610e.png">
+
+- The main page is shown in the figure below, with the topic search bar and connection configuration at the top. On the lower left of the page, it is the tree structure of the topic, and on the right, it is the Publish column, Subscribe column, Payload column, and History information control column.
+
+
 <img width="580" alt="sys" src="https://user-images.githubusercontent.com/112370237/209113420-4b9aa2c1-4c91-46fa-8a25-ad5a2fbd3ec9.png">
 
 
