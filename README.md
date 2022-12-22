@@ -92,7 +92,7 @@ create-react-app --version
   
 #### Step-6: You can now create a new React application by typing:
 ```
-npm create-react-app my-app
+npx create-react-app my-app
 ```
 where my-app is the name of the folder for your application. This may take a few minutes to create the React application and install its dependencies.
   
