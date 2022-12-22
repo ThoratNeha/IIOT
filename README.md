@@ -30,7 +30,7 @@ After choosing the path, double-click to install .msi binary files to initiate t
 
 You will get a welcome message on your screen and click the “Next” button. The installation process will start.<br>
 - Choose the desired path where you want to install Node.js.<br>
-- 
+ 
 
 <img width="580" alt="path" src="https://user-images.githubusercontent.com/112370237/208829982-6f394672-0998-4081-9701-e90b363aecfd.png"><br>
 
