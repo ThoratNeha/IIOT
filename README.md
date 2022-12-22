@@ -84,7 +84,7 @@ It will globally install react app for you. To check everything  went well run t
   You should see the React logo and a link to "Learn React" on [http://localhost:30000](http://localhost:30000) in your browser. We'll leave the web server running while we look at the application with VS Code.
   
 <img width="580" alt="react" src="https://user-images.githubusercontent.com/112370237/208906793-7688946d-f2ce-4b14-862c-bf4e3227e4c7.png"><br>
-### Installation of Mosquitto(MQTT)
+### 2 Installation of Mosquitto(MQTT)
 #### Step-1: Download the eclipse mosquitto 
 - To install manually you will need to download the files from Eclipse Mosquitto(MQTT) version 1.6.12a. Here is the [link](https://mosquitto.org/files/binary/win64/mosquitto-1.6.12a-install-windows-x64.exe)<br>
 - After that you can see the mosquitto setup window on your screen then click on next<br>
