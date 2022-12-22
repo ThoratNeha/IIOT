@@ -134,7 +134,12 @@ The configuration page will pop up when you enter MQTT Explorer for the first ti
  <img width="580" alt="topic" src="https://user-images.githubusercontent.com/112370237/209124847-b117f1ec-92a6-4a84-ac8f-617a1d89ac23.png">
  
  #### Step-7: MQTT message publishing
-After the connection is established, enter /test/1 in the topic box at the bottom right corner of the page, and enter some text, and then click Publish to send the message.
+After the connection is established, enter in the topic box at the bottom right corner of the page, and enter some text, and then click Publish to send the message.
+- Receive subscription messages
+After the publish is successful, the message just published will be received in the Value card at the top right.
+
+<img width="580" alt="messege" src="https://user-images.githubusercontent.com/112370237/209126487-8b848930-14c9-40eb-9580-bfabcb407cc1.png">
+
 
 
 
