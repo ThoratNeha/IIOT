@@ -39,13 +39,13 @@ The following features will be installed by default:
 - If you have a doubt whether you have installed everything correctly or not, let’s verify it with “Command Prompt”.
 - Open the command Prompt
 - Command Prompt window will appear on the screen.
-- To confirm Node installation, type `**_node -v_**` command.
+- To confirm Node installation, type **_`node -v`_**command.
   
 ```
 node -v
 ```
 - A package manager called npm. It is automatically included in your installation of Node. You need to have an npm version of at least 5.2.
-- To confirm NPM installation, type `**_npm -v_**` command.
+- To confirm NPM installation, type **_`npm -v`_** command.
   
 ```
 npm -v
