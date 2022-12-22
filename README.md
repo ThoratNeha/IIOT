@@ -99,9 +99,13 @@ It will globally install react app for you. To check everything  went well run t
   
 #### Step-2: Starting Mosquitto on Windows
 - The command mosquitto -v will let you start in verbose mode, and you can thus see the console messages.
+  
   ```
   mosquitto -v
   ```
+  
+  ![Screenshot (18)](https://user-images.githubusercontent.com/112370237/209069715-a3e5ee3f-98b2-4161-8401-1fa27de468b4.png)
+
   
  
 
