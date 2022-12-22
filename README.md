@@ -87,8 +87,11 @@ It will globally install react app for you. To check everything  went well run t
 ### Installation of Mosquitto(MQTT)
 #### Step-1: Download the eclipse mosquitto 
 - To install manually you will need to download the files from Eclipse Mosquitto(MQTT) version 1.6.12a. Here is the [link](https://mosquitto.org/files/binary/win64/mosquitto-1.6.12a-install-windows-x64.exe)<br>
-- After that you can see the mosquitto setup window on your screen then click on next
+- After that you can see the mosquitto setup window on your screen then click on next<br>
   <img width="680" alt="setup" src="https://user-images.githubusercontent.com/112370237/209064690-0482d893-9656-4e05-a098-4d2351298489.png">
+- In the “Choose Components” page, tick the box that will install Mosquitto as a “Service.”<br>
+  <img width="680" alt="service" src="https://user-images.githubusercontent.com/112370237/209065577-25dca10f-a673-4ef5-9c41-c9ab581e79b1.png">
+
 
  
   
