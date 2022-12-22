@@ -107,12 +107,15 @@ It will globally install react app for you. To check everything  went well run t
   ```
   
   ![Screenshot (18)](https://user-images.githubusercontent.com/112370237/209069715-a3e5ee3f-98b2-4161-8401-1fa27de468b4.png)
-
-- The main page is shown in the figure below, with the topic search bar and connection configuration at the top. On the lower left of the page, it is the tree structure of the topic, and on the right, it is the Publish column, Subscribe column, Payload column, and History information control column.
+### MQTT Explorer
+  
+  MQTT Explorer is a comprehensive MQTT client that provides a structured overview of your MQTT topics and makes working with devices/services on your broker dead-simple.
+  #### Step-3: Download the MQTT Explorer version 0.4.0 . 
+- After the installation the main page is shown in the figure below, with the topic search bar and connection configuration at the top. On the lower left of the page, it is the tree structure of the topic, and on the right, it is the Publish column, Subscribe column, Payload column, and History information control column.
 
  <img width="580" alt="exp" src="https://user-images.githubusercontent.com/112370237/209097324-c4c471a8-ad18-4eff-a777-4d25c4a1fac1.png">
   
- #### Step-3: MQTT connection/subscription
+ #### Step-4: MQTT connection/subscription
 ##### Initialization page
 The configuration page will pop up when you enter MQTT Explorer for the first time.
   
