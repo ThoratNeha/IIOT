@@ -47,9 +47,7 @@ node -v
 - A package manager called npm. It is automatically included in your installation of Node. You need to have an npm version of at least 5.2.
 - To confirm NPM installation, type **_`npm -v`_** command.
   
-```
-npm -v
-```
+```npm -v```
   
 ![cmd](https://user-images.githubusercontent.com/112370237/208838322-154ff311-cc66-430a-9eab-19babc54c84b.png)
 If the installation went well it will give you the version you have installed
