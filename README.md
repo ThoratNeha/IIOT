@@ -127,6 +127,11 @@ The configuration page will pop up when you enter MQTT Explorer for the first ti
  Click Connections to create a new connection, and fill in the Host, the port as 1883, and the protocol as MQTT protocol.
   
 <img width="680" alt="connection" src="https://user-images.githubusercontent.com/112370237/209106278-e55fe6ed-dbbd-4510-80a3-1aa14743610e.png">
+ 
+ #### Step-6: Subscribe to a topic
+ Then, click Advanced. Because EMQX Cloud prohibits the $SYS topic and the # topic by default, we delete them and enter a test subscription topic with the name test/1, and the result is shown in the figure below.
+ 
+ <img width="580" alt="topic" src="https://user-images.githubusercontent.com/112370237/209124847-b117f1ec-92a6-4a84-ac8f-617a1d89ac23.png">
 
 
 
