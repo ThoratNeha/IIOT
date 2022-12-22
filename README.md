@@ -4,7 +4,7 @@ The industrial internet of things (IIoT) refers to the extension and use of the 
 ## **Setting up the development environment for IIOT**
 ### Installing Dependencies
 you will need to install Node.js, react and MQTT
-### 1. Node.js
+### 1. Installation of Node.js
 #### Step-1: Download the installer
 Download the windows intaller from [NodeJs official website](https://nodejs.org/en/). Make sure you have downloaded the latest version of NodeJs. It includes the NPM package manager.<br>
 Here, we are choosing the 64-bit version of the Node.js installer<br>
@@ -83,7 +83,9 @@ It will globally install react app for you. To check everything  went well run t
   ```
   You should see the React logo and a link to "Learn React" on [http://localhost:30000](http://localhost:30000) in your browser. We'll leave the web server running while we look at the application with VS Code.
   
-<img width="680" alt="react" src="https://user-images.githubusercontent.com/112370237/208906793-7688946d-f2ce-4b14-862c-bf4e3227e4c7.png">
+<img width="680" alt="react" src="https://user-images.githubusercontent.com/112370237/208906793-7688946d-f2ce-4b14-862c-bf4e3227e4c7.png"><br>
+### Installation of Mosquitto(MQTT)
+To install manually you will need to download the files from Eclipse Mosquitto(MQTT) version 1.6.12a. Here is the [link](https://mosquitto.org/files/binary/win64/mosquitto-1.6.12a-install-windows-x64.exe)
 
   
  
