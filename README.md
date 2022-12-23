@@ -193,7 +193,11 @@ After the publish is successful, the message just published will be received in 
 
 
 <p align="center">
-<img width="780" height="400" alt="messege" src="https://user-images.githubusercontent.com/112370237/209126487-8b848930-14c9-40eb-9580-bfabcb407cc1.png"></p>
+<img width="780" height="400" alt="messege" src="https://user-images.githubusercontent.com/112370237/209126487-8b848930-14c9-40eb-9580-bfabcb407cc1.png"></p><br>
+### Installing WampServer
+[WampServer](https://www.wampserver.com/en/) is a local server package for Windows, allowing you to install and host web applications that use `Apache`, `PHP` and `MySQL`.
+
+This article will walk you through the steps to install WampServer on your computer.
 
 
 
