@@ -217,7 +217,27 @@ Next you will see the Welcome To The WampServer Setup Wizard screen. **Click Nex
 
 The next screen you are presented with is the License Agreement. Read the agreement, check the radio button next to I accept the agreement, then **Click Next** to continue the installation.<br>
 
-<img width="580" height="400" alt="agree" src="https://user-images.githubusercontent.com/112370237/209315507-952da764-daab-47e0-af98-62cde196bee8.png">
+<img width="580" height="400" alt="agree" src="https://user-images.githubusercontent.com/112370237/209315507-952da764-daab-47e0-af98-62cde196bee8.png"><br>
+
+Next you will see the Select Destination Location screen. Unless you would like to install WampServer on another drive, you should not need to change anything. **Click Next**  to continue.
+
+<img width="580" height="400"  alt="wpath" src="https://user-images.githubusercontent.com/112370237/209318264-c4eb8f5f-3e60-4c93-9d90-4bffe881abfa.png"><br>
+
+The next screen you are presented with is the Select Additional Tasks screen. You will be able to select whether you would like a Quick Launch icon added to the taskbar or a Desktop icon created once installation is complete. Make your selections, then click Next to continue.
+Next you will see the Ready To Install screen. You can review your setup choices, and change any of them by clicking Back to the appropriate screen, if you choose to. Once you have reviewed your choices, **click Install** to continue.<br>
+
+<img  width="580" height="400"  alt="winstall" src="https://user-images.githubusercontent.com/112370237/209319839-39a1cc2c-c5b9-4a9e-8050-ac1d891b60ff.png"><br>
+
+The installation process will take a while but it should get done in a few minutes.<br>
+
+<img  width="580" height="400" alt="ext" src="https://user-images.githubusercontent.com/112370237/209320667-1046df11-cea8-4564-8dd6-09455521c46e.png"><br>
+
+The Installation Complete screen will now appear. Check the Launch WampServer Now box, then click Finish to complete the installation.<br>
+
+
+
+
+
 
 
 
