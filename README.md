@@ -251,7 +251,7 @@ Now, we have to configure the WAMP contents we installed. Once installed, you wi
 - Orange- Can mean it is idle or, like red, there is something that didn’t get installed properly. 
 - Green- The server is active and ready to use.<br<
 
-
+### Step-3: Testing wampserver
 Once you have completed the installation process, test that your installation is working properly by going to [http://localhost/]() in your browser. You should see the WampServer homepage displayed.<br>
 
 Now you are ready to go! Go ahead and create your first WAMP server project.
