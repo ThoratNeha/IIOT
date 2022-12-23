@@ -234,6 +234,9 @@ The installation process will take a while but it should get done in a few minut
 
 The Installation Complete screen will now appear. Check the Launch WampServer Now box, then click Finish to complete the installation.<br>
 
+<img width="580" height="400"  alt="wlaunch" src="https://user-images.githubusercontent.com/112370237/209321908-a22e778e-7e02-4cd2-bf60-c6ed2510558b.png"><br>
+
+
 
 
 
