@@ -247,9 +247,9 @@ The Installation Complete screen will now appear. Check the Launch WampServer No
 ### Step-2: Configuration: 
 Now, we have to configure the WAMP contents we installed. Once installed, you will mostly get a notification from the firewall asking whether the newly installed software should get the permission to use your network. Give it the permission and next find the option in your hidden taskbar icons or in the windows start menu. The color of the symbol corresponds to the status the server is in:
 
--Red- Can mean the WAMP server is temporarily deactivated or there is some sort of hindrance that is not allowing it to work
--Orange- Can mean it is idle or, like red, there is something that didn’t get installed properly. 
--Green- The server is active and ready to use.
+- Red- Can mean the WAMP server is temporarily deactivated or there is some sort of hindrance that is not allowing it to work
+- Orange- Can mean it is idle or, like red, there is something that didn’t get installed properly. 
+- Green- The server is active and ready to use.
 
 
 
