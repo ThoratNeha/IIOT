@@ -15,7 +15,7 @@ Download the windows installer from [NodeJs official website](https://nodejs.org
 Here, we are choosing the 64-bit version of the Node.js installer<br>
 
 <p align="center">
-<img width="780" alt="nodeV" src="https://user-images.githubusercontent.com/112370237/208826356-87cd4711-9212-4d32-9deb-4c21bc32cb3a.png"></p><br>
+<img width="780" height="400" alt="nodeV" src="https://user-images.githubusercontent.com/112370237/208826356-87cd4711-9212-4d32-9deb-4c21bc32cb3a.png"></p><br>
 
 
 The LTS (Long-term Support) version is highly recommended for you. After the download of the installer package, install it with a double-click on it.<br>
@@ -23,7 +23,7 @@ The LTS (Long-term Support) version is highly recommended for you. After the dow
 #### Step 2: Install Node.js and NPM
 
 <p align="center">
-<img width="780" alt="npm" src="https://user-images.githubusercontent.com/112370237/208828959-74860e50-4bbf-43e4-8cb9-540dacaf9ec0.png"></p><br>
+<img width="780" height="400" alt="npm" src="https://user-images.githubusercontent.com/112370237/208828959-74860e50-4bbf-43e4-8cb9-540dacaf9ec0.png"></p><br>
 
 
 After choosing the path, double-click to install .msi binary files to initiate the installation process. Then give access to run the application.
@@ -32,7 +32,7 @@ You will get a welcome message on your screen and click the “Next” button. T
 - Choose the desired path where you want to install Node.js.<br>
  
 <p align="center">
-<img width="780" alt="path" src="https://user-images.githubusercontent.com/112370237/208829982-6f394672-0998-4081-9701-e90b363aecfd.png"></p><br>
+<img width="780" height="400" alt="path" src="https://user-images.githubusercontent.com/112370237/208829982-6f394672-0998-4081-9701-e90b363aecfd.png"></p><br>
 
 
 - By clicking on the Next button, you will get a custom page setup on the screen. Make sure you choose npm package manager , not the default of Node.js runtime . This way, we can install Node and NPM simultaneously.
@@ -44,12 +44,12 @@ The following features will be installed by default:
 - Online documentation shortcuts
 - Add to Path
 <p align="center">
-<img width="780" alt="setup" src="https://user-images.githubusercontent.com/112370237/208833691-17a0ffba-7beb-4b8d-8e36-45ba843055f5.png"></p><br>
+<img width="780" height="400" alt="setup" src="https://user-images.githubusercontent.com/112370237/208833691-17a0ffba-7beb-4b8d-8e36-45ba843055f5.png"></p><br>
 
 
 - Bang! The setup is ready to install Node and NPM. Let’s click on the Install button so hard!
 <p align="center">
-<img width="780" alt="install" src="https://user-images.githubusercontent.com/112370237/208834409-4b8b5c95-e8a3-4678-ae37-2a2340e00147.png"></p><br>
+<img width="780" height="400" alt="install" src="https://user-images.githubusercontent.com/112370237/208834409-4b8b5c95-e8a3-4678-ae37-2a2340e00147.png"></p><br>
 
 
 #### Step 3: Check Node.js and NPM version
@@ -106,7 +106,7 @@ npm start
 ```
 You should see the React logo and a link to "Learn React" on [http://localhost:30000](http://localhost:30000) in your browser. We'll leave the web server running while we look at the application with VS Code.
 <p align="center">
-<img width="780" alt="react" src="https://user-images.githubusercontent.com/112370237/208906793-7688946d-f2ce-4b14-862c-bf4e3227e4c7.png"></p><br>
+<img width="780" height="400" alt="react" src="https://user-images.githubusercontent.com/112370237/208906793-7688946d-f2ce-4b14-862c-bf4e3227e4c7.png"></p><br>
 
 
 ### 2 Installation of Mosquitto(MQTT)
@@ -114,16 +114,16 @@ You should see the React logo and a link to "Learn React" on [http://localhost:3
 - To install manually you will need to download the files from Eclipse Mosquitto(MQTT) version 1.6.12a. Here is the [link](https://mosquitto.org/files/binary/win64/mosquitto-1.6.12a-install-windows-x64.exe)<br>
 - After that you can see the mosquitto setup window on your screen then click on next<br>
 <p align="center">
-<img width="780" alt="setup" src="https://user-images.githubusercontent.com/112370237/209064690-0482d893-9656-4e05-a098-4d2351298489.png"></p><br>
+<img width="780" height="400" alt="setup" src="https://user-images.githubusercontent.com/112370237/209064690-0482d893-9656-4e05-a098-4d2351298489.png"></p><br>
 
 - In the “Choose Components” page, tick the box that will install Mosquitto as a “Service.”<br>
 <p align="center">
-<img width="780" alt="service" src="https://user-images.githubusercontent.com/112370237/209065577-25dca10f-a673-4ef5-9c41-c9ab581e79b1.png"></p><br>
+<img width="780" height="400" alt="service" src="https://user-images.githubusercontent.com/112370237/209065577-25dca10f-a673-4ef5-9c41-c9ab581e79b1.png"></p><br>
 
 
 - By default, the location of installation will be set at C:\ program files\mosquitto. If you want to install the service somewhere else, you can browse to that particular location.
 <p align="center">
-<img width="780" alt="install" src="https://user-images.githubusercontent.com/112370237/209066600-c4e2bd52-ac08-4788-b1e8-9d1da359dc8a.png"></p><br>
+<img width="780" height="400" alt="install" src="https://user-images.githubusercontent.com/112370237/209066600-c4e2bd52-ac08-4788-b1e8-9d1da359dc8a.png"></p><br>
 
 - Click on “Finish” to complete the process.
   
@@ -144,24 +144,24 @@ MQTT Explorer is a comprehensive MQTT client that provides a structured overview
  - The main page is shown in the figure below, with the topic search bar and connection configuration at the top. On the lower left of the page, it is the tree structure of the topic, and on the right, it is the Publish column, Subscribe column, Payload column, and History information control column.
 
 <p align="center">
-<img width="780" alt="sys" src="https://user-images.githubusercontent.com/112370237/209113420-4b9aa2c1-4c91-46fa-8a25-ad5a2fbd3ec9.png"></p>
+<img width="780" height="400" alt="sys" src="https://user-images.githubusercontent.com/112370237/209113420-4b9aa2c1-4c91-46fa-8a25-ad5a2fbd3ec9.png"></p>
  <br>
 
 #### Step-4: MQTT connection/subscription
 ##### Initialization page
 The configuration page will pop up when you enter MQTT Explorer for the first time.
 <p align="center">
-<img width="780" alt="connect" src="https://user-images.githubusercontent.com/112370237/209099119-3bd9b3b3-da34-4f00-bfca-20303a70cf17.png"></p><br>
+<img width="780" height="400" alt="connect" src="https://user-images.githubusercontent.com/112370237/209099119-3bd9b3b3-da34-4f00-bfca-20303a70cf17.png"></p><br>
   
 #### Step-5: Create a connection
  Click Connections to create a new connection, and fill in the Host, the port as 1883, and the protocol as MQTT protocol.
 <p align="center">
-<img width="780" alt="connection" src="https://user-images.githubusercontent.com/112370237/209106278-e55fe6ed-dbbd-4510-80a3-1aa14743610e.png"></p><br>
+<img width="780" height="400" alt="connection" src="https://user-images.githubusercontent.com/112370237/209106278-e55fe6ed-dbbd-4510-80a3-1aa14743610e.png"></p><br>
  
  #### Step-6: Subscribe to a topic
  Then, click Advanced. And enter a test subscription topic with the name test/1, and the result is shown in the figure below.
  <p align="center">
- <img width="780" alt="topic" src="https://user-images.githubusercontent.com/112370237/209124847-b117f1ec-92a6-4a84-ac8f-617a1d89ac23.png"></p>
+ <img width="780" height="400" alt="topic" src="https://user-images.githubusercontent.com/112370237/209124847-b117f1ec-92a6-4a84-ac8f-617a1d89ac23.png"></p>
  
  #### Step-7: MQTT message publishing
 After the connection is established, enter in the topic box at the bottom right corner of the page, and enter some text, and then click Publish to send the message.
@@ -169,7 +169,7 @@ After the connection is established, enter in the topic box at the bottom right 
  
 After the publish is successful, the message just published will be received in the Value card at the top right.
 <p align="center">
-<img width="780" height="500" alt="messege" src="https://user-images.githubusercontent.com/112370237/209126487-8b848930-14c9-40eb-9580-bfabcb407cc1.png"></p>
+<img width="780" height="400" alt="messege" src="https://user-images.githubusercontent.com/112370237/209126487-8b848930-14c9-40eb-9580-bfabcb407cc1.png"></p>
 
 
 
