@@ -209,9 +209,12 @@ Download the installer file for the [latest version of WampServer](https://www.w
 
 ### Step-2. Installing WampServer
 
-To start the installation process, you need to open the folder where you saved the file, and **double-click the installer file**. A security warning window will open, asking if you are sure you want to run this file. ** Click Run ** to start the installation process.
+To start the installation process, you need to open the folder where you saved the file, and **double-click the installer file**. A security warning window will open, asking if you are sure you want to run this file. **Click Run** to start the installation process.
 
-Next you will see the Welcome To The WampServer Setup Wizard screen. Click Next to continue the installation.
+Next you will see the Welcome To The WampServer Setup Wizard screen. **Click Next** to continue the installation.<br>
+
+<img width="780" height="400" alt="wset" src="https://user-images.githubusercontent.com/112370237/209313426-435e9001-9675-4784-b073-d1e3ebc232a0.png">
+
 
 
 
