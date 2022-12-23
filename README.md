@@ -204,37 +204,45 @@ This article will walk you through the steps to install WampServer on your compu
 
 ### Step-1: Downloading WampServer
 
-Download the installer file for the [latest version of WampServer](https://www.wampserver.com/en/), and save the file to your computer.
-<img width="580" height="400" alt="wamp" src="https://user-images.githubusercontent.com/112370237/209310900-67d06274-f51b-478e-8d20-a9be5c8d639d.png"><br>
+Download the installer file for the [latest version of WampServer](https://www.wampserver.com/en/), and save the file to your computer.<br>
+
+<p align="center">
+<img width="580" height="400" alt="wamp" src="https://user-images.githubusercontent.com/112370237/209310900-67d06274-f51b-478e-8d20-a9be5c8d639d.png"></p><br>
 
 ### Step-2. Installing WampServer
 
 To start the installation process, you need to open the folder where you saved the file, and **double-click the installer file**. A security warning window will open, asking if you are sure you want to run this file. **Click Run** to start the installation process.
 
 Next you will see the Welcome To The WampServer Setup Wizard screen. **Click Next** to continue the installation.<br>
-
-<img width="580" height="400" alt="wset" src="https://user-images.githubusercontent.com/112370237/209313426-435e9001-9675-4784-b073-d1e3ebc232a0.png"><br>
+ 
+<p align="center">
+<img width="580" height="400" alt="wset" src="https://user-images.githubusercontent.com/112370237/209313426-435e9001-9675-4784-b073-d1e3ebc232a0.png"></p><br>
 
 The next screen you are presented with is the License Agreement. Read the agreement, check the radio button next to I accept the agreement, then **Click Next** to continue the installation.<br>
 
-<img width="580" height="400" alt="agree" src="https://user-images.githubusercontent.com/112370237/209315507-952da764-daab-47e0-af98-62cde196bee8.png"><br>
+<p align="center">
+<img width="580" height="400" alt="agree" src="https://user-images.githubusercontent.com/112370237/209315507-952da764-daab-47e0-af98-62cde196bee8.png"></p><br>
 
 Next you will see the Select Destination Location screen. Unless you would like to install WampServer on another drive, you should not need to change anything. **Click Next**  to continue.
 
-<img width="580" height="400"  alt="wpath" src="https://user-images.githubusercontent.com/112370237/209318264-c4eb8f5f-3e60-4c93-9d90-4bffe881abfa.png"><br>
+<p align="center">
+<img width="580" height="400"  alt="wpath" src="https://user-images.githubusercontent.com/112370237/209318264-c4eb8f5f-3e60-4c93-9d90-4bffe881abfa.png"></p><br>
 
-The next screen you are presented with is the Select Additional Tasks screen. You will be able to select whether you would like a Quick Launch icon added to the taskbar or a Desktop icon created once installation is complete. Make your selections, then click Next to continue.
+The next screen you are presented with is the Select Additional Tasks screen. You will be able to select whether you would like a Quick Launch icon added to the taskbar or a Desktop icon created once installation is complete. Make your selections, then **click Next** to continue.
 Next you will see the Ready To Install screen. You can review your setup choices, and change any of them by clicking Back to the appropriate screen, if you choose to. Once you have reviewed your choices, **click Install** to continue.<br>
-
-<img  width="580" height="400"  alt="winstall" src="https://user-images.githubusercontent.com/112370237/209319839-39a1cc2c-c5b9-4a9e-8050-ac1d891b60ff.png"><br>
+ 
+<p align="center">
+<img  width="580" height="400"  alt="winstall" src="https://user-images.githubusercontent.com/112370237/209319839-39a1cc2c-c5b9-4a9e-8050-ac1d891b60ff.png"></p><br>
 
 The installation process will take a while but it should get done in a few minutes.<br>
 
-<img  width="580" height="400" alt="ext" src="https://user-images.githubusercontent.com/112370237/209320667-1046df11-cea8-4564-8dd6-09455521c46e.png"><br>
+<p align="center">
+<img  width="580" height="400" alt="ext" src="https://user-images.githubusercontent.com/112370237/209320667-1046df11-cea8-4564-8dd6-09455521c46e.png"></p><br>
 
 The Installation Complete screen will now appear. Check the Launch WampServer Now box, then click Finish to complete the installation.<br>
 
-<img width="580" height="400"  alt="wlaunch" src="https://user-images.githubusercontent.com/112370237/209321908-a22e778e-7e02-4cd2-bf60-c6ed2510558b.png"><br>
+<p align="center">
+<img width="580" height="400"  alt="wlaunch" src="https://user-images.githubusercontent.com/112370237/209321908-a22e778e-7e02-4cd2-bf60-c6ed2510558b.png"></p><br>
 
 
 
