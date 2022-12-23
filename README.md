@@ -196,11 +196,17 @@ After the publish is successful, the message just published will be received in 
 <img width="780" height="400" alt="messege" src="https://user-images.githubusercontent.com/112370237/209126487-8b848930-14c9-40eb-9580-bfabcb407cc1.png"></p><br>
 
 
-### Installing WampServer
+### 3 Installation of WampServer
 
 [WampServer](https://www.wampserver.com/en/) is a local server package for Windows, allowing you to install and host web applications that use `Apache`, `PHP` and `MySQL`.
 
 This article will walk you through the steps to install WampServer on your computer.
+
+### Step-1: Downloading WampServer
+
+Download the installer file for the [latest version of WampServer](https://www.wampserver.com/en/), and save the file to your computer.
+<img width="780" height="400" alt="wamp" src="https://user-images.githubusercontent.com/112370237/209310900-67d06274-f51b-478e-8d20-a9be5c8d639d.png">
+
 
 
 
