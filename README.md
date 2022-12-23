@@ -252,7 +252,9 @@ Now, we have to configure the WAMP contents we installed. Once installed, you wi
 - Green- The server is active and ready to use.<br<
 
 
-Once you have completed the installation process, test that your installation is working properly by going to [http://localhost/]() in your browser. You should see the WampServer homepage displayed.
+Once you have completed the installation process, test that your installation is working properly by going to [http://localhost/]() in your browser. You should see the WampServer homepage displayed.<br>
+
+Now you are ready to go! Go ahead and create your first WAMP server project.
 
 
 
