@@ -209,7 +209,7 @@ Download the installer file for the [latest version of WampServer](https://www.w
 <p align="center">
 <img width="580" height="400" alt="wamp" src="https://user-images.githubusercontent.com/112370237/209310900-67d06274-f51b-478e-8d20-a9be5c8d639d.png"></p><br>
 
-### Step-2. Installing WampServer
+### Step-2: Installing WampServer
 
 To start the installation process, you need to open the folder where you saved the file, and **double-click the installer file**. A security warning window will open, asking if you are sure you want to run this file. **Click Run** to start the installation process.
 
@@ -243,6 +243,13 @@ The Installation Complete screen will now appear. Check the Launch WampServer No
 
 <p align="center">
 <img width="580" height="400"  alt="wlaunch" src="https://user-images.githubusercontent.com/112370237/209321908-a22e778e-7e02-4cd2-bf60-c6ed2510558b.png"></p><br>
+
+### Step-2: Configuration: 
+Now, we have to configure the WAMP contents we installed. Once installed, you will mostly get a notification from the firewall asking whether the newly installed software should get the permission to use your network. Give it the permission and next find the option in your hidden taskbar icons or in the windows start menu. The color of the symbol corresponds to the status the server is in:
+
+-Red- Can mean the WAMP server is temporarily deactivated or there is some sort of hindrance that is not allowing it to work
+-Orange- Can mean it is idle or, like red, there is something that didn’t get installed properly. 
+-Green- The server is active and ready to use.
 
 
 
