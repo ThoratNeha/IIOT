@@ -205,7 +205,15 @@ This article will walk you through the steps to install WampServer on your compu
 ### Step-1: Downloading WampServer
 
 Download the installer file for the [latest version of WampServer](https://www.wampserver.com/en/), and save the file to your computer.
-<img width="780" height="400" alt="wamp" src="https://user-images.githubusercontent.com/112370237/209310900-67d06274-f51b-478e-8d20-a9be5c8d639d.png">
+<img width="780" height="400" alt="wamp" src="https://user-images.githubusercontent.com/112370237/209310900-67d06274-f51b-478e-8d20-a9be5c8d639d.png"><br>
+
+### Step-2. Installing WampServer
+
+To start the installation process, you need to open the folder where you saved the file, and **double-click the installer file**. A security warning window will open, asking if you are sure you want to run this file. ** Click Run ** to start the installation process.
+
+Next you will see the Welcome To The WampServer Setup Wizard screen. Click Next to continue the installation.
+
+
 
 
 
