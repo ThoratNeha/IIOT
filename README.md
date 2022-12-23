@@ -213,7 +213,12 @@ To start the installation process, you need to open the folder where you saved t
 
 Next you will see the Welcome To The WampServer Setup Wizard screen. **Click Next** to continue the installation.<br>
 
-<img width="580" height="400" alt="wset" src="https://user-images.githubusercontent.com/112370237/209313426-435e9001-9675-4784-b073-d1e3ebc232a0.png">
+<img width="580" height="400" alt="wset" src="https://user-images.githubusercontent.com/112370237/209313426-435e9001-9675-4784-b073-d1e3ebc232a0.png"><br>
+
+The next screen you are presented with is the License Agreement. Read the agreement, check the radio button next to I accept the agreement, then **Click Next** to continue the installation.<br>
+
+<img width="580" height="400" alt="agree" src="https://user-images.githubusercontent.com/112370237/209315507-952da764-daab-47e0-af98-62cde196bee8.png">
+
 
 
 
