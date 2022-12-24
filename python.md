@@ -35,5 +35,11 @@ To ensure if Python is succesfully installed on your system. Follow the given st
 
 ![Screenshot (36)](https://user-images.githubusercontent.com/112370237/209432050-0e59a37c-6eff-410c-9d86-b1384b199fa9.png) <br>
 
+## Step 3: Adding path on Environment variables
+- Go to the system properties
+- Click on the environment variable button that appears in the new popped-up window. Here is how it looks:<br>
+
+![Screenshot (37)](https://user-images.githubusercontent.com/112370237/209432875-d2a1cdb1-3e58-4483-82e4-a9d7b5f156b4.png)
+
 
 
