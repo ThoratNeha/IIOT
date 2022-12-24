@@ -31,4 +31,9 @@ To ensure if Python is succesfully installed on your system. Follow the given st
  ```
  python
  ```
-- The version of the python which you have installed will be displayed if the python is successfully installed on your windows.
+- The version of the python which you have installed will be displayed if the python is successfully installed on your windows.<br>
+
+![Screenshot (36)](https://user-images.githubusercontent.com/112370237/209432050-0e59a37c-6eff-410c-9d86-b1384b199fa9.png) <br>
+
+
+
