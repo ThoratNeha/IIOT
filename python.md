@@ -39,5 +39,17 @@ To ensure if Python is succesfully installed on your system. Follow the given st
 - Go to the system properties
 - Click on the environment variable button that appears in the new popped-up window. Here is how it looks:<br>
 
-<img width="580" height="300" alt="evt" src="https://user-images.githubusercontent.com/112370237/209432921-9b407a37-7553-4a76-94c4-cacd90bd0e26.png">
+<img width="580" height="600" alt="evt" src="https://user-images.githubusercontent.com/112370237/209432921-9b407a37-7553-4a76-94c4-cacd90bd0e26.png"><br>
+
+-In the dialog box- go to the path and click on `Edit` button<br>
+
+![Screenshot (38)](https://user-images.githubusercontent.com/112370237/209433066-630ad805-e2c0-4b43-97ae-cbb756e6efa2.png)<br>
+
+- You can see the dialog box in below image
+- now click on the `New` button and add your python folder path <br>
+
+![Screenshot (39)](https://user-images.githubusercontent.com/112370237/209433207-39cc9d2a-5bb8-4254-b5b4-06e16892a23b.png)
+
+
+
 
