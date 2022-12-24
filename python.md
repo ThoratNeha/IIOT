@@ -55,4 +55,4 @@ To ensure if Python is succesfully installed on your system. Follow the given st
 
 <p align="cebter">
 <img width="580" height="600" alt="addpath" src="https://user-images.githubusercontent.com/112370237/209433360-bee4ea24-b979-475a-b6d9-3cf713af418e.png"></p><br>
--As it is same process for the system variables
+- As it is same process for the system variables
