@@ -39,7 +39,5 @@ To ensure if Python is succesfully installed on your system. Follow the given st
 - Go to the system properties
 - Click on the environment variable button that appears in the new popped-up window. Here is how it looks:<br>
 
-![Screenshot (37)](https://user-images.githubusercontent.com/112370237/209432875-d2a1cdb1-3e58-4483-82e4-a9d7b5f156b4.png)
-
-
+<img width="580" height="300" alt="evt" src="https://user-images.githubusercontent.com/112370237/209432921-9b407a37-7553-4a76-94c4-cacd90bd0e26.png">
 
