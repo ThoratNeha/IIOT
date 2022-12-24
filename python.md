@@ -1,5 +1,5 @@
 # Python
-## introduction
+## Introduction
 Python is a **dynamic, interpreted (bytecode-compiled) language** . There are no type declarations of variables, parameters, functions, or methods in source code. This makes the code short and flexible, and you lose the compile-time type checking of the source code. It is largely used by professional programmers and developers across a variety of fields, including Web Development and Machine Learning.<br>
 
 ## Step 1: Download the Python Installer binaries 
@@ -8,7 +8,7 @@ Choose the latest Python 3 release. In our example, we choose the latest **Pytho
 <p align="center">
 <img width="580" height="300" alt="version_py" src="https://user-images.githubusercontent.com/112370237/209430912-72301eb9-a85e-478b-bd5a-ffefcb98408c.png"></p><br>
 
-## Step 2: Run Executable Installer
+## Step 2: Run Executable Installer 
 - We downloaded the Python 3.11.1 Windows 64 bit installer.
 - Run the installer. Make sure to select both the checkboxes at the bottom and then click **Install New**.<br>
 
