@@ -45,8 +45,9 @@ To ensure if Python is succesfully installed on your system. Follow the given st
 
 <img width="580" height="600" alt="Epath" src="https://user-images.githubusercontent.com/112370237/209433330-8e166717-9a68-452e-8b8e-3e7593ee6468.png"><br>
 
-- You can see the dialog box in below image
+
 - now click on the `New` button and add your python folder path and click on **ok**.Now your path has been added! <br>
+- You can see the dialog box in below image
 - As it is same process for the system variables
 
 <img width="580" height="600" alt="addpath" src="https://user-images.githubusercontent.com/112370237/209433360-bee4ea24-b979-475a-b6d9-3cf713af418e.png"><br>
