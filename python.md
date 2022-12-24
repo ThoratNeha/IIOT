@@ -21,4 +21,14 @@ Choose the latest Python 3 release. In our example, we choose the latest Python 
 - The installation process will take few minutes to complete and once the installation is successful, the following screen is displayed.<br>
 
 
-<img width="580" height="300"alt="path_py" src="https://user-images.githubusercontent.com/112370237/209431808-d1c94f14-55cb-4d5b-b88a-cf361ca08b94.png"><br>
+<img width="580" height="300" alt="path_py" src="https://user-images.githubusercontent.com/112370237/209431833-c7247acd-b5e3-463a-89cf-0e2ff41aed33.png"><br>
+
+## Step 2: Verify Python is installed on Windows
+To ensure if Python is succesfully installed on your system. Follow the given steps −
+
+- Open the command prompt.
+- Type **`python`** and press enter.
+ ```
+ python
+ ```
+- The version of the python which you have installed will be displayed if the python is successfully installed on your windows.
