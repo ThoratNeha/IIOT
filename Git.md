@@ -26,7 +26,7 @@ This command is used to make a copy of a repository from an existing URL. If I w
 ```
 $ git clone URL  
 ```
-![Screenshot (43)](https://user-images.githubusercontent.com/112370237/209503985-b4f74ef8-0a32-4417-a451-a20472d0c65a.png)
+![Screenshot (44)](https://user-images.githubusercontent.com/112370237/209505476-dbf4ca9b-d556-43e3-9dbf-2d5e27897280.png)
 #### 4) Git add command
 This command is used to add one or more files to staging (Index) area.
 #### Syntax
