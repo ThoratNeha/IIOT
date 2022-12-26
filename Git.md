@@ -60,3 +60,4 @@ This command commits any files added in the repository with git add and also com
 ```
 $ git commit -a  
 ```
+
