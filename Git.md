@@ -43,7 +43,7 @@ $ git add*
 
 #### 5) Git commit command
 Commit command is used in two scenarios. They are as follows.
-`Git commit -m`
+***Git commit -m***
 
 
 This command changes the head. It records or snapshots the file permanently in the version history with a message.
@@ -52,7 +52,7 @@ This command changes the head. It records or snapshots the file permanently in t
 ```
 $ git commit -m " Commit Message"  
 ```
-`Git commit -a`
+***Git commit -a***
 
 This command commits any files added in the repository with git add and also commits any files you've changed since then.
 
