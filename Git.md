@@ -39,3 +39,24 @@ To add more than one file
 ```
 $ git add*
 ```
+![Screenshot (45)](https://user-images.githubusercontent.com/112370237/209506319-62657a42-faee-4288-baf7-acd4d04380d5.png)<br>
+
+#### 5) Git commit command
+Commit command is used in two scenarios. They are as follows.
+`Git commit -m`
+
+
+This command changes the head. It records or snapshots the file permanently in the version history with a message.
+
+#### Syntax
+```
+$ git commit -m " Commit Message"  
+```
+`Git commit -a`
+
+This command commits any files added in the repository with git add and also commits any files you've changed since then.
+
+#### Syntax
+```
+$ git commit -a  
+```
