@@ -68,14 +68,14 @@ Given it's not particularly fun to run a local copy of webpack from the CLI, we 
 
 ### package.json
 
-![Screenshot (56)](https://user-images.githubusercontent.com/112370237/209651436-1037f7e9-aea1-4ea7-84c5-28d2ecf248c6.png)
+![Screenshot (56)](https://user-images.githubusercontent.com/112370237/209651436-1037f7e9-aea1-4ea7-84c5-28d2ecf248c6.png)<br>
 Now the `npm run build` command can be used in place of the `npx` command we used earlier. Note that within `scripts` we can reference locally installed npm packages by name the same way we did with `npx`. This convention is the standard in most npm-based projects because it allows all contributors to use the same set of common scripts.
 
 Now run the following command and see if your script alias works:
 ```
 $ npm run build
 ```
-![Screenshot (57)](https://user-images.githubusercontent.com/112370237/209651798-5c0b5e88-3684-4dad-a210-8286394758ad.png)
+![Screenshot (57)](https://user-images.githubusercontent.com/112370237/209651798-5c0b5e88-3684-4dad-a210-8286394758ad.png)<br>
  Now your project should look like this:
 
 ### project
