@@ -18,6 +18,7 @@ This command is used to create a local repository.
 $ git init Demo  
 ```
 The init command will initialize an empty repository. See the below screenshot.<br>
+
 ![Screenshot (42)](https://user-images.githubusercontent.com/112370237/209502447-ba05ad4e-6f3d-496e-ad5d-dd86519913b2.png)<br>
 #### 3) Git clone command
 This command is used to make a copy of a repository from an existing URL. If I want a local copy of my repository from GitHub, this command allows creating a local copy of that repository on your local directory from the repository URL.
