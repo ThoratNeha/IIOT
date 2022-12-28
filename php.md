@@ -84,16 +84,16 @@ Follow the below steps to install PHP on Windows:
 
 
 **Step 18:** Now your PHP is installed on your computer. You may check by going to the “Start” menu typing Command Prompt. Open it.
-<img width="341" alt="18" src="https://user-images.githubusercontent.com/112370237/209812712-19bff11a-8821-4d2d-be2d-3b79feb8ed0b.png">
-
-
+<img width="223" alt="18" src="https://user-images.githubusercontent.com/112370237/209812960-30a2847d-ca7e-45dd-81f5-a5bf2f4b4fec.png">
 
 **Step 19:** When the Command Prompt opens, type php -v
 
+![image](https://user-images.githubusercontent.com/112370237/209813028-3c58db2d-d628-4ed0-a4e2-a63c6d3140f8.png)
 
 
 **Step 20:** Now enter the command prompt to show the version of PHP installed on your computer.
 
+![image](https://user-images.githubusercontent.com/112370237/209813097-98c5e7a6-8977-49dc-b6b5-55a0ef51a640.png)
 
 
 You have successfully installed PHP on your Windows 10 system.
