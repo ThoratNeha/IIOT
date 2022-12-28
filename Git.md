@@ -26,7 +26,7 @@ This command is used to make a copy of a repository from an existing URL. If I w
 ```
 $ git clone URL  
 ```
-![Screenshot (44)](https://user-images.githubusercontent.com/112370237/209505476-dbf4ca9b-d556-43e3-9dbf-2d5e27897280.png)
+![Screenshot (44)](https://user-images.githubusercontent.com/112370237/209505476-dbf4ca9b-d556-43e3-9dbf-2d5e27897280.png)<br>
 #### 4) Git add command
 This command is used to add one or more files to staging (Index) area.
 #### Syntax
@@ -60,7 +60,7 @@ This command commits any files added in the repository with git add and also com
 ```
 $ git commit -a  
 ```
-![image](https://user-images.githubusercontent.com/105771251/209516461-c8ec47bc-ae79-4864-b9b0-8b1afd59e69b.png)
+![image](https://user-images.githubusercontent.com/105771251/209516461-c8ec47bc-ae79-4864-b9b0-8b1afd59e69b.png)<br>
 
 #### 6) Git Status Command
 The status command is used to display the state of the working directory and the staging area. It allows you to see which changes have been staged, which haven't, and which files aren?t being tracked by Git. It does not show you any information about the committed project history. For this, you need to use the git log. It also lists the files that you've changed and those you still need to add or commit.
@@ -70,7 +70,7 @@ The status command is used to display the state of the working directory and the
 $ git status  
 ```
 
-![image](https://user-images.githubusercontent.com/105771251/209516718-5a84aba2-357f-4583-bfbc-628f21f6f76e.png)
+![image](https://user-images.githubusercontent.com/105771251/209516718-5a84aba2-357f-4583-bfbc-628f21f6f76e.png)<br>
 
 #### 7) Git push Command
 It is used to upload local repository content to a remote repository. Pushing is an act of transfer commits from your local repository to a remote repo. It's the complement to git fetch, but whereas fetching imports commits to local branches on comparatively pushing exports commits to remote branches. Remote branches are configured by using the git remote command. Pushing is capable of overwriting changes, and caution should be taken when pushing.
@@ -85,13 +85,13 @@ This command sends the changes made on the master branch, to your remote reposit
 ```
 $ git push [variable name] master  
 ```
-![image](https://user-images.githubusercontent.com/105771251/209517654-7be46930-478e-4c92-9204-b728160c0c58.png)
+![image](https://user-images.githubusercontent.com/105771251/209517654-7be46930-478e-4c92-9204-b728160c0c58.png)<br>
 
-![image](https://user-images.githubusercontent.com/105771251/209517681-2aec7f3b-3fa1-4db4-9799-101dab3b70fa.png)
+![image](https://user-images.githubusercontent.com/105771251/209517681-2aec7f3b-3fa1-4db4-9799-101dab3b70fa.png)<br>
 
-![image](https://user-images.githubusercontent.com/105771251/209517696-934d90e1-4d4f-4474-9a57-247ade50f3b0.png)
+![image](https://user-images.githubusercontent.com/105771251/209517696-934d90e1-4d4f-4474-9a57-247ade50f3b0.png)<br>
 
-![image](https://user-images.githubusercontent.com/105771251/209517718-ba2945fa-2d1a-48e2-b03f-1bb968fe76f5.png)
+![image](https://user-images.githubusercontent.com/105771251/209517718-ba2945fa-2d1a-48e2-b03f-1bb968fe76f5.png)<br>
 
 #### Git push -all
 
@@ -102,7 +102,7 @@ This command pushes all the branches to the server repository.
 $ git push --all  
 ```
 
-![image](https://user-images.githubusercontent.com/105771251/209517907-c25de025-5c5e-4951-834f-373bd9f89495.png)
+![image](https://user-images.githubusercontent.com/105771251/209517907-c25de025-5c5e-4951-834f-373bd9f89495.png)<br>
 
 
 #### 8) Git Pull Command
@@ -112,7 +112,7 @@ Pull command is used to receive data from GitHub. It fetches and merges changes 
 ```
 $ git push URL  
 ```
-![image](https://user-images.githubusercontent.com/105771251/209518314-08f4dbc4-2b64-4d72-a8a1-ae70314da6fb.png)
+![image](https://user-images.githubusercontent.com/105771251/209518314-08f4dbc4-2b64-4d72-a8a1-ae70314da6fb.png)<br>
 
 #### 9) Git Branch Command
 This command lists all the branches available in the repository.
@@ -121,7 +121,7 @@ This command lists all the branches available in the repository.
 ```
 $ git branch  
 ```
-![image](https://user-images.githubusercontent.com/105771251/209518415-6a0fd9bf-943d-48d4-910c-9247abd2e601.png)
+![image](https://user-images.githubusercontent.com/105771251/209518415-6a0fd9bf-943d-48d4-910c-9247abd2e601.png)<br>
 
 #### 10) Git Merge Command
 This command is used to merge the specified branch?s history into the current branch.
@@ -130,7 +130,7 @@ This command is used to merge the specified branch?s history into the current br
 ```
 $ git merge BranchName  
 ```
-![image](https://user-images.githubusercontent.com/105771251/209518537-d14d3da9-a6f1-4fdf-9b95-6a6cc00ec121.png)
+![image](https://user-images.githubusercontent.com/105771251/209518537-d14d3da9-a6f1-4fdf-9b95-6a6cc00ec121.png)<br>
 
 #### 11) Git log Command
 This command is used to check the commit history.
@@ -139,7 +139,7 @@ This command is used to check the commit history.
 ```
 $ git log  
 ```
-![image](https://user-images.githubusercontent.com/105771251/209518644-1fa43148-2a6e-4495-b750-a541231467eb.png)
+![image](https://user-images.githubusercontent.com/105771251/209518644-1fa43148-2a6e-4495-b750-a541231467eb.png)<br>
 
 By default, if no argument passed, Git log shows the most recent commits first. We can limit the number of log entries displayed by passing a number as an option, such as -3 to show only the last three entries.
 ```
@@ -155,7 +155,7 @@ Git flow is the set of guidelines that developers can follow when using Git. We 
 
 It is referred to as Branching Model by the developers and works as a central repository for a project. Developers work and push their work to different branches of the main repository.
 
-![image](https://user-images.githubusercontent.com/105771251/209536597-ba925ce2-2e99-4805-b0ec-b460e3835b2b.png)
+![image](https://user-images.githubusercontent.com/105771251/209536597-ba925ce2-2e99-4805-b0ec-b460e3835b2b.png)<br>
 
 There are different types of branches in a project. According to the standard branching strategy and release management, there can be following types of branches:
 
@@ -174,7 +174,7 @@ Two of the branching model's branches are considered as main branches of the pro
 #### master
 #### develop
 
-![image](https://user-images.githubusercontent.com/105771251/209536753-05656a55-e426-415e-8dc4-b06a24117f2a.png)
+![image](https://user-images.githubusercontent.com/105771251/209536753-05656a55-e426-415e-8dc4-b06a24117f2a.png)<br>
 
 #### Master Branch
 The master branch is the main branch of the project that contains all the history of final changes. Every developer must be used to the master branch. The master branch contains the source code of HEAD that always reflects a final version of the project.
@@ -201,7 +201,7 @@ Each of these branches is made for a specific purpose and have some merge target
 #### Feature Branches
 Feature branches can be considered as topic branches. It is used to develop a new feature for the next version of the project. The existence of this branch is limited; it is deleted after its feature has been merged with develop branch.
 
-![image](https://user-images.githubusercontent.com/105771251/209537032-3a3f4322-8c00-4ea5-9c5f-40a695bdc959.png)
+![image](https://user-images.githubusercontent.com/105771251/209537032-3a3f4322-8c00-4ea5-9c5f-40a695bdc959.png)<br>
 
 #### Release Branches
 The release branch is created for the support of a new version release. Senior developers will create a release branch. The release branch will contain the predetermined amount of the feature branch. The release branch should be deployed to a staging server for testing.
@@ -221,7 +221,7 @@ Hotfix branches are similar to Release branches; both are created for a new prod
 
 The hotfix branches arise due to immediate action on the project. In case of a critical bug in a production version, a hotfix branch may branch off in your project. After fixing the bug, this branch can be merged with the master branch with a tag.
 
-![image](https://user-images.githubusercontent.com/105771251/209537213-90cc3625-b59f-4827-a0c9-cec47c9ada08.png)
+![image](https://user-images.githubusercontent.com/105771251/209537213-90cc3625-b59f-4827-a0c9-cec47c9ada08.png)<br>
 
 ## Git Cheat Sheet
 
@@ -322,11 +322,11 @@ iii) Click the Fork button on the upper right side of the repository's page.
 
 We can't fork our own repository. Only shared repositories can be fork. If someone wants to fork the repository, then he must log in with his account. Let's understand the below scenario in which a user pune2016 wants to contribute to our project GitExample2. When he searches or put the address of our repository, our repository will look like as follows:
 
-![image](https://user-images.githubusercontent.com/105771251/209540718-2e165dac-286e-46a4-abf5-06ddc0bbf1ab.png)
+![image](https://user-images.githubusercontent.com/105771251/209540718-2e165dac-286e-46a4-abf5-06ddc0bbf1ab.png)<br>
 
 The above image shows the user interface of my repository from other contributors. We can see the fork option at the top right corner of the repository page. By clicking on that, the forking process will start. It will take a while to make a copy of the project for other users. After the forking completed, a copy of the repository will be copied to your GitHub account. It will not affect the original repository. We can freely make changes and then create a pull request for the main project. The owner of the project will see your suggestion and decide whether he wants to merge the changes or not. The fork copy will look like as follows:
 
-![image](https://user-images.githubusercontent.com/105771251/209540740-4076f67b-a491-44dd-b18e-7020ccd43292.png)
+![image](https://user-images.githubusercontent.com/105771251/209540740-4076f67b-a491-44dd-b18e-7020ccd43292.png)<br>
 
 As you can see, the forked repository looks like pune2016/GitExample2. At the bottom of the repository name, we can see a description of the repository. At the top right corner, the option fork is increased by 1 number.
 Hence one can fork the repository from GitHub.
@@ -343,7 +343,7 @@ A pull request can merge the changes made on the fork repository. We can create 
 ## Git Fetch
 Git "fetch" Downloads commits, objects and refs from another repository. It fetches branches and tags from one or more repositories. It holds repositories along with the objects that are necessary to complete their histories to keep updated remote-tracking branches.
 
-![image](https://user-images.githubusercontent.com/105771251/209540919-fee37c62-47a9-4323-b060-1dd3d7b2cadd.png)
+![image](https://user-images.githubusercontent.com/105771251/209540919-fee37c62-47a9-4323-b060-1dd3d7b2cadd.png)<br>
 
 ### The "git fetch"command
 The "git fetch" command is used to pull the updates from remote-tracking branches. Additionally, we can get the updates that have been pushed to our remote branches to our local machines. As we know, a branch is a variation of our repositories main code, so the remote-tracking branches are branches that have been set up to pull and push from remote repository.
@@ -361,7 +361,7 @@ $ git fetch< repository Url>
 
 #### Output:
 
-![image](https://user-images.githubusercontent.com/105771251/209541070-ca7e989f-6171-49d9-9da7-29cc79a74ce5.png)
+![image](https://user-images.githubusercontent.com/105771251/209541070-ca7e989f-6171-49d9-9da7-29cc79a74ce5.png)<br>
 In the above output, the complete repository has fetched from a remote URL.
 
 ### Scenario 2: To fetch a specific branch:
@@ -372,7 +372,7 @@ We can fetch a specific branch from a repository. It will only access the elemen
 $ git fetch <branch URL><branch name> 
 ```
 #### Output:
-![image](https://user-images.githubusercontent.com/105771251/209541179-1ed5d4de-18e1-4947-bef0-6eed58a3077a.png)
+![image](https://user-images.githubusercontent.com/105771251/209541179-1ed5d4de-18e1-4947-bef0-6eed58a3077a.png)<br>
 
 In the given output, the specific branch test has fetched from a remote URL.
 
@@ -385,7 +385,7 @@ $ git fetch -all >
 ```
 
 #### Output:
-![image](https://user-images.githubusercontent.com/105771251/209541288-01d3adb2-7f10-4d92-8533-8b4f531bc1ce.png)
+![image](https://user-images.githubusercontent.com/105771251/209541288-01d3adb2-7f10-4d92-8533-8b4f531bc1ce.png)<br>
 
 In the above output, all the branches have fetched from the repository Git-Example.
 
@@ -397,7 +397,7 @@ Suppose, your team member has added some new features to your remote repository.
 $ git fetch origin  
 ```
 #### Output:
-![image](https://user-images.githubusercontent.com/105771251/209541402-8db29d0d-d167-4353-a74d-b47583f917a2.png)
+![image](https://user-images.githubusercontent.com/105771251/209541402-8db29d0d-d167-4353-a74d-b47583f917a2.png)<br>
 
 In the above output, new features of the remote repository have updated to my local system. In this output, the branch test2 and its objects are added to the local repository.
 
@@ -417,13 +417,13 @@ git pull = git fetch + git merge
 
 ## Git Pull / Pull Request
 The term pull is used to receive data from GitHub. It fetches and merges changes from the remote server to your working directory. The git pull command is used to pull a repository.
-![image](https://user-images.githubusercontent.com/105771251/209542656-aba94bd5-5471-4a97-8c61-55dd2b828aad.png)
+![image](https://user-images.githubusercontent.com/105771251/209542656-aba94bd5-5471-4a97-8c61-55dd2b828aad.png)<br>
 
 Pull request is a process for a developer to notify team members that they have completed a feature. Once their feature branch is ready, the developer files a pull request via their remote server account. Pull request announces all the team members that they need to review the code and merge it into the master branch.
 
 The below figure demonstrates how pull acts between different locations and how it is similar or dissimilar to other related commands.
 
-![image](https://user-images.githubusercontent.com/105771251/209542678-f56bd66a-f898-4554-954e-cc13c9ced4cf.png)
+![image](https://user-images.githubusercontent.com/105771251/209542678-f56bd66a-f898-4554-954e-cc13c9ced4cf.png)<br>
 
 ### The "git pull" command
 
@@ -441,10 +441,10 @@ $ git pull <option> [<repository URL><refspec>...]
 It is essential to understand how it works and how to use it. Let's take an example to understand how it works and how to use it. Suppose I have added a new file say design2.css in my remote repository of project GitExample2.
 
 To create the file first, go to create a file option given on repository sub-functions. After that, select the file name and edit the file as you want. Consider the below image.
-![image](https://user-images.githubusercontent.com/105771251/209543390-33d5c34a-9db0-4404-a7b3-2175eb58d2df.png)
+![image](https://user-images.githubusercontent.com/105771251/209543390-33d5c34a-9db0-4404-a7b3-2175eb58d2df.png)<br>
 
 Go to the bottom of the page, select a commit message and description of the file. Select whether you want to create a new branch or commit it directly in the master branch. Consider the below image:
-![image](https://user-images.githubusercontent.com/105771251/209543408-068d647e-4d77-4d1a-8345-0d27983d9ba4.png)
+![image](https://user-images.githubusercontent.com/105771251/209543408-068d647e-4d77-4d1a-8345-0d27983d9ba4.png)<br>
 Now, we have successfully committed the changes.
 
 To pull these changes in your local repository, perform the git pull operation on your cloned repository. There are many specific options available for pull command. Let's have a look at some of its usage.
@@ -457,15 +457,15 @@ $ git pull
 ```
 
 #### Output
-![image](https://user-images.githubusercontent.com/105771251/209543531-6e4c990b-6e05-4820-88da-e60c50b00e9d.png)
+![image](https://user-images.githubusercontent.com/105771251/209543531-6e4c990b-6e05-4820-88da-e60c50b00e9d.png)<br>
 
 In the given output, the newly updated objects of the repository are fetched through the git pull command. It is the default version of the git pull command. It will update the newly created file design2.css file and related object in the local repository. See the below image.
-![image](https://user-images.githubusercontent.com/105771251/209543554-256c989a-744e-4f06-b04a-ab3b9ff79fae.png)
+![image](https://user-images.githubusercontent.com/105771251/209543554-256c989a-744e-4f06-b04a-ab3b9ff79fae.png)<br>
 As you can see in the above output, the design2.css file is added to the local repository. The git pull command is equivalent to git fetch origin head and git merge head. The head is referred to as the ref of the current branch.
 
 ### Git Pull Remote Branch
 Git allows fetching a particular branch. Fetching a remote branch is a similar process, as mentioned above, in git pull command. The only difference is we have to copy the URL of the particular branch we want to pull. To do so, we will select a specific branch. See the below image:
-![image](https://user-images.githubusercontent.com/105771251/209543591-2967e2e1-c2f8-48c0-acae-44413688f43f.png)
+![image](https://user-images.githubusercontent.com/105771251/209543591-2967e2e1-c2f8-48c0-acae-44413688f43f.png)<br>
 
 In the above screenshot, I have chosen my branch named edited to copy the URL of the edited branch. Now, I am going to pull the data from the edited branch. Below command is used to pull a remote branch:
 
@@ -475,7 +475,7 @@ $ git pull <remote branch URL>
 ```
 
 #### Output:
-![image](https://user-images.githubusercontent.com/105771251/209544054-8fda6332-914c-44cc-a453-b4b85d63439c.png)
+![image](https://user-images.githubusercontent.com/105771251/209544054-8fda6332-914c-44cc-a453-b4b85d63439c.png)<br>
 
 ### Git Force Pull
 
@@ -500,7 +500,7 @@ $ git reset-hard master
 
 ```
 #### Consider the below output:
-![image](https://user-images.githubusercontent.com/105771251/209544369-de294294-65fd-463e-9745-ec087dad3ab5.png)
+![image](https://user-images.githubusercontent.com/105771251/209544369-de294294-65fd-463e-9745-ec087dad3ab5.png)<br>
 It will overwrite the existing data of the local repository with a remote repository.
 
 You can check the remote location of your repository. To check the remote location of the repository, use the below command:
@@ -518,7 +518,7 @@ origin  https://github.com/ImDwivedi1/GitExample2 (push)
 ```
 
 #### Output:
-![image](https://user-images.githubusercontent.com/105771251/209544521-7a0f5dae-2a98-47f5-b4b0-ea0c700351c1.png)
+![image](https://user-images.githubusercontent.com/105771251/209544521-7a0f5dae-2a98-47f5-b4b0-ea0c700351c1.png)<br>
 
 ### Git Pull Request
 Pull request allows you to announce a change made by you in the branch. Once a pull request is opened, you are allowed to converse and review the changes made by others. It allows reviewing commits before merging into the main branch.
@@ -529,11 +529,11 @@ Once you've created a pull request, you can push commits from your branch to add
 
 ### How to Create a Pull Request
 To create a pull request, you need to create a file and commit it as a new branch. As we mentioned earlier in this topic, how to commit a file to use git pull. Select the option "create a new branch for this commit and start a pull request" from the bottom of the page. Give the name of the new branch. Select the option to propose a new file at the bottom of the page. Consider the below image.
-![image](https://user-images.githubusercontent.com/105771251/209544579-3c1bda8c-32a4-4cd9-bd93-d2ddec27227d.png)
+![image](https://user-images.githubusercontent.com/105771251/209544579-3c1bda8c-32a4-4cd9-bd93-d2ddec27227d.png)<br>
 
 In the above image, I have selected the required option and named the file as PullRequestDemo. Select the option to propose a new file. It will open a new page. Select the option create pull request. Consider the below image:
 
-![image](https://user-images.githubusercontent.com/105771251/209544601-60c0382c-afb7-412b-baf9-195c2e61e849.png)
+![image](https://user-images.githubusercontent.com/105771251/209544601-60c0382c-afb7-412b-baf9-195c2e61e849.png)<br>
 
 Now, the pull request is created by you. People can see this request. They can merge this request with the other branches by selecting a merged pull request.
 
