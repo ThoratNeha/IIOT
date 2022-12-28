@@ -70,17 +70,21 @@ Follow the below steps to install PHP on Windows:
 
 **Step 15:** Now Click on the OK button.
 
+<img width="351" alt="15" src="https://user-images.githubusercontent.com/112370237/209812306-f92ca129-55b8-4b45-ac7f-a58049551644.png">
 
 
 **Step 16:**  Click on the OK button. 
 
+<img width="353" alt="16" src="https://user-images.githubusercontent.com/112370237/209812398-4cf2b5be-82bb-4dd7-9a90-d2194bc420ea.png">
 
 
 **Step 17:** Click on OK for saving changes.
 
+<img width="341" alt="17" src="https://user-images.githubusercontent.com/112370237/209812515-545d4874-2e03-4ac8-b9b5-280a6a5ecd96.png">
 
 
 **Step 18:** Now your PHP is installed on your computer. You may check by going to the “Start” menu typing Command Prompt. Open it.
+<img width="341" alt="18" src="https://user-images.githubusercontent.com/112370237/209812712-19bff11a-8821-4d2d-be2d-3b79feb8ed0b.png">
 
 
 
