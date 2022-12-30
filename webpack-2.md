@@ -85,15 +85,17 @@ Here we instructed webpack to use babel-loader whenever it finds a file with js 
 ### 6. Bundle your React App
 Now we need to add a script to our `package.json` file which allows us to build our App whenever needed seamlessly:
 
-<img width="594" alt="31" src="https://user-images.githubusercontent.com/112370237/210067969-28439fcf-800b-40d0-9a95-e625ca8d2517.png">
+<img width="594" alt="31" src="https://user-images.githubusercontent.com/112370237/210067969-28439fcf-800b-40d0-9a95-e625ca8d2517.png"><br>
 
  Now run the build using this commanad
  ```npm run build
  ```
- This will create the main.js file in the dist folder of your project root. Now we can attach this bundled JS to our HTML: 
+ This will create the main.js file in the dist folder of your project root. Now we can attach this bundled JS to our HTML: <br>
  ### 6.1 Manually running bundled App
- Once you have added the script tags mentioned above, open the index.html in the browser, and now you will see the Hello World! text on the browser.
- <img width="617" alt="32" src="https://user-images.githubusercontent.com/112370237/210068629-5b4f4364-6499-4dd4-a0f1-b26108da76c1.png">
+ Once you have added the script tags mentioned above, open the index.html in the browser, and now you will see the Hello World! text on the browser.<br>
+ 
+ <img width="617" alt="32" src="https://user-images.githubusercontent.com/112370237/210068629-5b4f4364-6499-4dd4-a0f1-b26108da76c1.png"><br>
+ 
 
 ### 6.2 Using HtmlWebpackPlugin
 The above method is great for adding bundled JS to your HTML. However, it is not practical in real life. Any real app will have multiple webpack plugins for chunking your JS files. Hence manually importing all bundling scripts to HTML will be cumbersome and futile. Instead, we can automate the process by installing a powerful React plugin named HTML-webpack-plugin by running the following command:
