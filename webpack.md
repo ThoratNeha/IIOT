@@ -20,12 +20,12 @@ In this example, there are implicit dependencies between the `<script>` tags. Ou
 
 There are problems with managing JavaScript projects this way:
 
--It is not immediately apparent that the script depends on an external library.
--If a dependency is missing, or included in the wrong order, the application will not function properly.
--If a dependency is included but not used, the browser will be forced to download unnecessary code.
--Let's use webpack to manage these scripts instead.
+- It is not immediately apparent that the script depends on an external library.
+- If a dependency is missing, or included in the wrong order, the application will not function properly.
+- If a dependency is included but not used, the browser will be forced to download unnecessary code.
+- Let's use webpack to manage these scripts instead.
 
-##Creating a Bundle
+## Creating a Bundle
 First we'll tweak our directory structure slightly, separating the "source" code (`./src`) from our "distribution" code (`./dist`). The "source" code is the code that we'll write and edit. The "distribution" code is the minimized and optimized output of our build process that will eventually be loaded in the browser. Tweak the directory structure as follows:
 
 ### project
