@@ -20,10 +20,50 @@ As you can see, both `CSS-loader` and `style-loader` are being used for processi
 ### 3. Output
 `Output` is relatively easy to understand. After completing all the processes, your React webpack creates a bundle file. We specify the name and the location of the final `output` file using the output function.
 ### 4. Plugins
-Webpacks use Plugins like you would use third-party vendors to power any React App. These plugins have immense power, and they can enter the React app process during any stage and boost its productivity, Scalability, and performance. Here is what importing a plugin in your React webpack app looks like:<br>
+Webpacks use Plugins like you would use third-party vendors to power any React App. These plugins have immense power, and they can enter the React app process during any stage and boost its productivity, Scalability, and performance. Here is what importing a **plugin in your React webpack app** looks like:<br>
  
  <img width="780" alt="19" src="https://user-images.githubusercontent.com/112370237/210061133-d291d661-c290-49ba-882f-fdb654bc0a37.png"><br>
- 
+
+Here we installed a plugin named `HTML-webpack-plugin`. This plugin helps developers include their webpack bundles in the body using `script` tags.
+5. Mode in React Webpack
+Mode is a simple yet very important concept to understand for React-webpack. It hel developers use different setups when they are in development and production modes. This what it looks like in code:<br>
+<img width="780" alt="21" src="https://user-images.githubusercontent.com/112370237/210062176-48d2608d-3325-4510-ab7b-c9a418b3eea1.png"><br>
+
+If you set the mode to `production`, the output bundle gets minified and optimized. 
+### 6. Development Server 
+And finally, you should know about development server. When developing your React app, it can be annoying and inefficient if the app compiles every time you change something. To avoid that you need to use `devServer` for your application.<br>
+
+<img width="780" alt="22" src="https://user-images.githubusercontent.com/112370237/210062598-60d9ac2a-7a7f-473b-965c-18bf45b86fb3.png"><br>
+
+This setup will serve your application from the `dist` you set up earlier as your output.
+
+## Install Webpack in React
+Now that we understand the **role of webpack in React**, we should look at the React with Webpack installation process. We can add webpack config to create-react-app, but this would again limit the customization and freedom we would have if we created a React app using webpack from scratch. **Installing React webpack** will help you gain complete control over the configuration and open up the scope of customization.
+
+## 1. Install npm int | Installing dependencies
+Assuming you already have the latest Node.js and npm version installed in your system, the first thing you need to install is npm init. Although VS Code is a popular choice, you can use whichever code editor you want. Start by running this process:
+
+```$ npm init -y
+```
+Doing so creates a starter package and creates a package.json file as well. All the dependencies needed to build your App will be listed here. Next, we want to create a basic React application, for which we need two libraries React & React DOM. We can add them as dependencies using
+npm:
+```
+$ npm i react react-dom --save
+```
+Now we can add a webpack for bundling our App together. Webpack is also needed for its hot reloading replacement feature. Here is how to install webpack-react in your project:
+```
+$ npm i webpack webpack-dev-server webpack-cli --save--dev
+```
+The save dev command tells the React app that these are just 'dev' dependencies.
+## 2. Set up Project Structure 
+You would have a `package.json` file and a `package-lock.json` file in your root. Next, we will create some empty files that we will be populating later. Now you should set your project in a way that it looks like the structure shown below:
+
+<img width="618" alt="25" src="https://user-images.githubusercontent.com/112370237/210064132-258767b1-760f-4b36-b1a9-96890b15f18b.png">
+
+## 3. Create a simple React App 
+Now that we have all the assets in place let's populate those folders we created earlier with proper codes to test how they function on the browser.
+
+
  
 
 
