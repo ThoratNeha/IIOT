@@ -40,7 +40,7 @@ This setup will serve your application from the `dist` you set up earlier as you
 ## Install Webpack in React
 Now that we understand the **role of webpack in React**, we should look at the React with Webpack installation process. We can add webpack config to create-react-app, but this would again limit the customization and freedom we would have if we created a React app using webpack from scratch. **Installing React webpack** will help you gain complete control over the configuration and open up the scope of customization.
 
-## 1. Install npm int | Installing dependencies
+### 1. Install npm int | Installing dependencies
 Assuming you already have the latest Node.js and npm version installed in your system, the first thing you need to install is npm init. Although VS Code is a popular choice, you can use whichever code editor you want. Start by running this process:
 
 ```$ npm init -y
@@ -55,13 +55,15 @@ Now we can add a webpack for bundling our App together. Webpack is also needed f
 $ npm i webpack webpack-dev-server webpack-cli --save--dev
 ```
 The save dev command tells the React app that these are just 'dev' dependencies.
-## 2. Set up Project Structure 
+### 2. Set up Project Structure 
 You would have a `package.json` file and a `package-lock.json` file in your root. Next, we will create some empty files that we will be populating later. Now you should set your project in a way that it looks like the structure shown below:
 
 <img width="618" alt="25" src="https://user-images.githubusercontent.com/112370237/210064132-258767b1-760f-4b36-b1a9-96890b15f18b.png">
 
-## 3. Create a simple React App 
+### 3. Create a simple React App 
 Now that we have all the assets in place let's populate those folders we created earlier with proper codes to test how they function on the browser.
+
+<img width="621" alt="26" src="https://user-images.githubusercontent.com/112370237/210064301-e72d4106-8d6a-46b9-a577-4c2a8fb99a14.png">
 
 
  
