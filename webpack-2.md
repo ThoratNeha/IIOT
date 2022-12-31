@@ -58,15 +58,15 @@ The save dev command tells the React app that these are just 'dev' dependencies.
 ### 2. Set up Project Structure 
 You would have a `package.json` file and a `package-lock.json` file in your root. Next, we will create some empty files that we will be populating later. Now you should set your project in a way that it looks like the structure shown below:
 
-<img width="618" alt="25" src="https://user-images.githubusercontent.com/112370237/210064132-258767b1-760f-4b36-b1a9-96890b15f18b.png">
+<img width="780" alt="25" src="https://user-images.githubusercontent.com/112370237/210064132-258767b1-760f-4b36-b1a9-96890b15f18b.png">
 
 ### 3. Create a simple React App 
 Now that we have all the assets in place let's populate those folders we created earlier with proper codes to test how they function on the browser.
 
-<img width="621" alt="26" src="https://user-images.githubusercontent.com/112370237/210064301-e72d4106-8d6a-46b9-a577-4c2a8fb99a14.png">
+<img width="780" alt="26" src="https://user-images.githubusercontent.com/112370237/210064301-e72d4106-8d6a-46b9-a577-4c2a8fb99a14.png">
 This basic Hello World app is supposed to render a `<h>` tag that says 'Hello World' on the page. But if you try adding an index.js file to your HTML file like this:
 
-<img width="616" alt="27" src="https://user-images.githubusercontent.com/112370237/210067089-d1436434-b5a3-4434-aceb-674c0d5cd820.png">
+<img width="780" alt="27" src="https://user-images.githubusercontent.com/112370237/210067089-d1436434-b5a3-4434-aceb-674c0d5cd820.png">
 
 The code won't work. Your browser will shoot a blank page. Your browser doesn't know how to import App from the ./App directory. The browser can only load static JS files. Hence, webpack configuration is needed for converting your React app into readable code that browsers can understand.
 ### 4. Utilizing Loaders 
@@ -79,13 +79,13 @@ npm i -D @babel/core @babel/preset-env @babel/preset-react babel-loader
 ### 5. Configure React-Webpack
 Now we need to configure **webpack React** for instructing it to use Babel during bundling process for understanding the JSX files:
 
-<img width="641" alt="29" src="https://user-images.githubusercontent.com/112370237/210067536-855a9340-caee-42fc-8727-8d25177cb133.png">
+<img width="780" alt="29" src="https://user-images.githubusercontent.com/112370237/210067536-855a9340-caee-42fc-8727-8d25177cb133.png">
 
 Here we instructed webpack to use babel-loader whenever it finds a file with js or JSX extension.
 ### 6. Bundle your React App
 Now we need to add a script to our `package.json` file which allows us to build our App whenever needed seamlessly:
 
-<img width="594" alt="31" src="https://user-images.githubusercontent.com/112370237/210067969-28439fcf-800b-40d0-9a95-e625ca8d2517.png"><br>
+<img width="780" alt="31" src="https://user-images.githubusercontent.com/112370237/210067969-28439fcf-800b-40d0-9a95-e625ca8d2517.png"><br>
 
  Now run the build using this commanad
  ```npm run build
@@ -94,7 +94,7 @@ Now we need to add a script to our `package.json` file which allows us to build 
  ### 6.1 Manually running bundled App
  Once you have added the script tags mentioned above, open the index.html in the browser, and now you will see the Hello World! text on the browser.<br>
  
- <img width="617" alt="32" src="https://user-images.githubusercontent.com/112370237/210068629-5b4f4364-6499-4dd4-a0f1-b26108da76c1.png"><br>
+ <img width="780" alt="32" src="https://user-images.githubusercontent.com/112370237/210068629-5b4f4364-6499-4dd4-a0f1-b26108da76c1.png"><br>
  
 
 ### 6.2 Using HtmlWebpackPlugin
