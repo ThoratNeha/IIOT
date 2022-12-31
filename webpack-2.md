@@ -102,6 +102,17 @@ The above method is great for adding bundled JS to your HTML. However, it is not
 ``` 
 npm i -D HTML-webpack-plugin
 ```
-Modify our project configuration file for adding this plugin by running the following code:
+Modify our project configuration file for adding this plugin by running the following code:<br>
+
+<img width="461" alt="34" src="https://user-images.githubusercontent.com/112370237/210125341-7597e8a4-189b-426b-8a84-c880a94ac4b2.png"><br>
+
+
+By running this code, we included the plugin and gave it a template HTML that has the webpack attached to the bundled JS after the build. After this, we can remove the <script> tag from the src/index.html directory. Now run the build using:
+```
+ npm build
+```
+You will see that the index.html file is also generated alongside main.js in the dist folder when you do this.
+### Wrapping up!
+This is all you need to know about **React Webpack!** Make sure to be sure webpack with React if you are working on a large-scale app project that needs customization, Scalability, and complex configurations to ensure your React app can handle all the demands and performs seamlessly without any bottlenecks.
 
 
