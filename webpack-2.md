@@ -104,7 +104,7 @@ npm i -D HTML-webpack-plugin
 ```
 Modify our project configuration file for adding this plugin by running the following code:<br>
 
-<img width="461" alt="34" src="https://user-images.githubusercontent.com/112370237/210125341-7597e8a4-189b-426b-8a84-c880a94ac4b2.png"><br>
+<img width="780" alt="34" src="https://user-images.githubusercontent.com/112370237/210125341-7597e8a4-189b-426b-8a84-c880a94ac4b2.png"><br>
 
 
 By running this code, we included the plugin and gave it a template HTML that has the webpack attached to the bundled JS after the build. After this, we can remove the <script> tag from the src/index.html directory. Now run the build using:
