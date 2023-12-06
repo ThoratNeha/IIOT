@@ -256,7 +256,7 @@ Once you have completed the installation process, test that your installation is
 
 Now you are ready to go! Go ahead and create your first WAMP server project.
 
-## 3 Installation of PM2
+## 4 Installation of PM2
 ### Step-1: Installation: 
  Type command:
  ```
