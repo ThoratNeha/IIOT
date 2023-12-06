@@ -256,19 +256,24 @@ Once you have completed the installation process, test that your installation is
 
 Now you are ready to go! Go ahead and create your first WAMP server project.
 
-### 3 Installation of PM2
+## 3 Installation of PM2
 ### Step-1: Installation: 
  Type command:
+ ```
  npm install -g pm2
+```
 
 ### Step-2: Put programs on windows start-up:
 Type Command:
+```
 npm install pm2-windows-startup -g
+```
 
 ### Step-3: Save Program:
 Type Command:
+```
 pm2 save
-
+```
 
 
 
