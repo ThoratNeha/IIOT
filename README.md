@@ -270,13 +270,15 @@ Type Command:
 npm install pm2-windows-startup -g
 ```
 
-### Step-3: Save Program:
+### Step-3: To Enable Startup:
+```
+pm2-startup install
+```
+### Step-4: Save Program:
 Type Command:
 ```
 pm2 save
 ```
-
-
 
 
 
